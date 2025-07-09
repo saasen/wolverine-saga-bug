@@ -1,4 +1,4 @@
-Reproduction of bug in Wolverine [issued here]([url](https://github.com/jasperfx/wolverine/issues/1556)).
+Reproduction of bug in Wolverine [issued here](https://github.com/jasperfx/wolverine/issues/1556).
 
 To run, you will need:
 * RabbitMQ AMQP endpoint running on 5672
